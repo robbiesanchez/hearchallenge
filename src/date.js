@@ -6,6 +6,10 @@ d.setDate(-5);
 
 document.getElementById("date").innerHTML = (days[d.getDay()]+", "+months[d.getMonth()]+ " " + 26 + ", " + d.getFullYear())
 
-let theHeader = "Hear Me"
+let theHeader = "Welcome to"
 
-document.getElementsByTagName("h1").innerHTML = theHeader
+document.getElementById("header").innerHTML = (theHeader)
+
+onload(alert("Welcome to hear.com"))
+
+let formData = new FormData(document.querySelector('form'))

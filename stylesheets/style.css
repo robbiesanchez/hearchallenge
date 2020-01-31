@@ -45,11 +45,11 @@ ul {
     flex-direction: column;
     /* justify-content: flex-start; */
     align-content: flex-start;
-    text-align: left;
+    text-align: center;
 }
 
 ul li {
-    padding : 2px
+    padding : 5px
 }
 
 button {
