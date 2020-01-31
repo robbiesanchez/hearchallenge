@@ -12,4 +12,4 @@ document.getElementById("header").innerHTML = (theHeader)
 
 onload(alert("Welcome to hear.com"))
 
-let formData = new FormData(document.querySelector('form'))
+let formData = new FormData(document.querySelector("form"))
