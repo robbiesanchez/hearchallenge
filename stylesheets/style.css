@@ -85,6 +85,17 @@ button {
         padding: 2%;
         border-radius: 10%;
     }
+
+    #form {
+        text-align: center;
+        border-color:white;
+        border-style: dotted;
+        border-width: 5px;
+        display: flex;
+        padding: 5px;
+        justify-content: center;
+    }
+    
     
 }
 
