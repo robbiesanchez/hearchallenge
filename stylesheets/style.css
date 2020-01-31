@@ -46,11 +46,24 @@ ul {
     /* justify-content: flex-start; */
     align-content: flex-start;
     text-align: center;
+    padding-right: 10%;
+    padding-left: 10%;
 }
 
 ul li {
     padding : 5px
 }
+
+#form {
+    text-align: center;
+    border-color:white;
+    border-style: dotted;
+    border-width: 5px;
+    display: flex;
+    padding: 5px
+}
+
+
 
 button {
     background-color: #0c2d53;
